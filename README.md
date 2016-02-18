@@ -5,7 +5,7 @@ gitissue is command line tool to create/edit/search issues on github repositorie
 To start using the tool, it is recommended to generate OAuth Token (need to do only once) for your github account
 
 ### Generate OAuth Token:
-gitissue oauth <note (reminder) for this OAuth Token>
+    gitissue oauth <note (reminder) for this OAuth Token>
 
 ### Create a github issue:
     gitissue create
